@@ -1,0 +1,10 @@
+C:\PhotoTest\PhotoTest\PhotoTest\bin\Debug\PhotoTest.exe.config
+C:\PhotoTest\PhotoTest\PhotoTest\bin\Debug\PhotoTest.exe
+C:\PhotoTest\PhotoTest\PhotoTest\bin\Debug\PhotoTest.pdb
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.csprojAssemblyReference.cache
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.Form1.resources
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.Properties.Resources.resources
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.csproj.GenerateResource.cache
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.csproj.CoreCompileInputs.cache
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.exe
+C:\PhotoTest\PhotoTest\PhotoTest\obj\Debug\PhotoTest.pdb
